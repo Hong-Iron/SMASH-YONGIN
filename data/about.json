@@ -1,0 +1,34 @@
+{
+ "region": "경기 용인시 처인구 삼가동",
+ "nameEn": "Yongin University",
+ "added": "2026-10-24T16:30",
+ "rank": 120,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "MJU-YONGIN",
+   "campus": "명지대학교 자연캠퍼스",
+   "km": 1.7
+  },
+  {
+   "code": "YSC",
+   "campus": "용인예술과학대학교",
+   "km": 4.4
+  },
+  {
+   "code": "KANGNAM",
+   "campus": "강남대학교",
+   "km": 6.4
+  },
+  {
+   "code": "LUTHER",
+   "campus": "루터대학교",
+   "km": 6.5
+  },
+  {
+   "code": "KHU-GLOBAL",
+   "campus": "경희대학교 국제캠퍼스",
+   "km": 7.9
+  }
+ ]
+}
